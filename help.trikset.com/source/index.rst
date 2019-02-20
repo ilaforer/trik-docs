@@ -6,6 +6,8 @@
 Welcome to TRIK's documentation!
 ================================
 
+- Тут был Злобный Форер
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
